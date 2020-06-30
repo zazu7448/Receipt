@@ -1,0 +1,28 @@
+body{
+    background: #000;
+}
+.padding{
+    padding: 2rem ;
+}
+h4{
+  color: rgb(209, 209, 209);
+}
+
+table, th, td{
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+tr{
+    text-align: center;
+}
+span{
+    float: right;
+    color: rgb(184, 182, 182);
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
